@@ -1,0 +1,110 @@
+[
+  {
+    "nama": "Orgasm",
+    "brand": "HMNS",
+    "tipe_aroma": "Floral Fruity Gourmand",
+    "cuaca_cocok": "Sejuk, Hangat",
+    "aktivitas_cocok": "Kencan, Santai, Acara Semi-formal",
+    "mood_kesan": "Manis, Romantis, Memikat",
+    "gambar_path": "assets/parfum/hmns_orgasm.png"
+  },
+  {
+    "nama": "S.O.T.B (Sun of The Beach)",
+    "brand": "Saff & Co.",
+    "tipe_aroma": "Citrus Aquatic",
+    "cuaca_cocok": "Panas, Hangat",
+    "aktivitas_cocok": "Liburan, Santai, Olahraga",
+    "mood_kesan": "Segar, Enerjik, Bebas",
+    "gambar_path": "assets/parfum/saffco_sotb.png"
+  },
+  {
+    "nama": "Black Orchid",
+    "brand": "Carl & Claire",
+    "tipe_aroma": "Spicy Oriental Floral",
+    "cuaca_cocok": "Sejuk, Malam hari, Hujan",
+    "aktivitas_cocok": "Acara Formal, Pesta, Kencan",
+    "mood_kesan": "Mewah, Misterius, Elegan",
+    "gambar_path": "assets/parfum/carlclaire_blackorchid.png"
+  },
+  {
+    "nama": "Mexicola",
+    "brand": "Onix",
+    "tipe_aroma": "Citrus Aromatic",
+    "cuaca_cocok": "Panas",
+    "aktivitas_cocok": "Santai, Aktivitas Outdoor",
+    "mood_kesan": "Segar, Ceria, Playful",
+    "gambar_path": "assets/parfum/onix_mexicola.png"
+  },
+  {
+    "nama": "Ethereal",
+    "brand": "Mine. Perfumery",
+    "tipe_aroma": "Floral Green",
+    "cuaca_cocok": "Hangat, Sejuk",
+    "aktivitas_cocok": "Kantor, Sehari-hari, Rapat",
+    "mood_kesan": "Tenang, Bersih, Profesional",
+    "gambar_path": "assets/parfum/mine_ethereal.png"
+  },
+  {
+    "nama": "Farhampton",
+    "brand": "HMNS",
+    "tipe_aroma": "Aromatic Fougere",
+    "cuaca_cocok": "Semua cuaca",
+    "aktivitas_cocok": "Kantor, Sehari-hari, Acara Semi-formal",
+    "mood_kesan": "Profesional, Rapi, Maskulin",
+    "gambar_path": "assets/parfum/hmns_farhampton.png"
+  },
+  {
+    "nama": "Loui",
+    "brand": "Saff & Co.",
+    "tipe_aroma": "Woody Oriental",
+    "cuaca_cocok": "Sejuk, Malam hari",
+    "aktivitas_cocok": "Acara Formal, Meeting Penting",
+    "mood_kesan": "Mewah, Berwibawa, Mahal",
+    "gambar_path": "assets/parfum/saffco_loui.png"
+  },
+  {
+    "nama": "Aether",
+    "brand": "Oullu",
+    "tipe_aroma": "Woody Aldehydic",
+    "cuaca_cocok": "Sejuk, Hujan",
+    "aktivitas_cocok": "Kerja Kreatif, Meditasi, Santai",
+    "mood_kesan": "Unik, Tenang, Introspektif",
+    "gambar_path": "assets/parfum/oullu_aether.png"
+  },
+  {
+    "nama": "B.O (Bohemian Rhapsody)",
+    "brand": "Alien Objects",
+    "tipe_aroma": "Spicy Gourmand",
+    "cuaca_cocok": "Malam hari, Sejuk",
+    "aktivitas_cocok": "Nongkrong, Konser, Kencan",
+    "mood_kesan": "Hangat, Karismatik, Bold",
+    "gambar_path": "assets/parfum/alienobjects_bo.png"
+  },
+  {
+    "nama": "The Great Batavia",
+    "brand": "Project 1945",
+    "tipe_aroma": "Spicy Woody",
+    "cuaca_cocok": "Sejuk, Hangat",
+    "aktivitas_cocok": "Kantor, Acara Budaya, Sehari-hari",
+    "mood_kesan": "Klasik, Hangat, Bersejarah",
+    "gambar_path": "assets/parfum/project1945_batavia.png"
+  },
+  {
+    "nama": "FWB (Friends with Benefit)",
+    "brand": "Onix",
+    "tipe_aroma": "Citrus Spicy",
+    "cuaca_cocok": "Panas, Hangat",
+    "aktivitas_cocok": "Santai, Kampus, Kencan Kasual",
+    "mood_kesan": "Segar, Modern, Atraktif",
+    "gambar_path": "assets/parfum/onix_fwb.png"
+  },
+  {
+    "nama": "Blue Point",
+    "brand": "BSP",
+    "tipe_aroma": "Citrus Aquatic",
+    "cuaca_cocok": "Siang",
+    "aktivitas_cocok": "Kerja di Lapangan",
+    "mood_kesan": "Aktif",
+    "gambar_path": "assets/parfum\\placeholder.png"
+  }
+]
