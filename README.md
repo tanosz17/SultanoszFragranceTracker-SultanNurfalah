@@ -2,10 +2,7 @@
 
 Sebuah aplikasi desktop berbasis Python & Tkinter untuk membantu para pencinta parfum dalam mengelola koleksi, mendapatkan rekomendasi harian, dan mencatat riwayat pemakaian. Project ini dibuat sebagai tugas akhir untuk mata kuliah Pemrograman Berorientasi Objek.
 
-![Screenshot Aplikasi](httpsiscreeenshot) 
-(Ganti `isicreenshot` dengan screenshot aplikasi Anda. Caranya: upload screenshot ke GitHub issue atau imgur, lalu salin link gambarnya ke sini)
-
- Latar Belakang & Inspirasi
+Latar Belakang & Inspirasi
 
 Aplikasi ini terinspirasi dari pengalaman pribadi sebagai seorang yang hobi mengoleksi dan memakai parfum. Seringkali saya bingung memilih parfum mana yang cocok untuk cuaca atau aktivitas tertentu di hari itu. Selain itu, saya ingin memiliki catatan digital dari semua koleksi parfum saya beserta detailnya, serta riwayat pemakaiannya. Aplikasi "Sultanosz Fragrance Tracker" ini dibuat sebagai solusi untuk masalah tersebut, menggabungkan hobi dengan penerapan konsep Object-Oriented Programming (OOP).
 
@@ -96,4 +93,5 @@ Saat berpindah halaman, fungsi show_frame memanggil frame.refresh().
 Jika frame adalah objek KoleksiPage, refresh() akan memuat ulang daftar kartu parfum.
 Jika frame adalah objek RiwayatPage, refresh() akan memuat ulang data pada tabel riwayat.
 Satu nama metode (refresh()) memiliki banyak bentuk perilaku, tergantung pada objek mana yang memanggilnya.
+
 Dibuat dengan oleh Sultan Nurfalah TI23H.
